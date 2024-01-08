@@ -14,7 +14,7 @@ public class Test {
         arr[1]=81;
         arr[2]=98;
         arr[3]=69;
-        arr[4]=69;
+        arr[4]=9;
         Arrays.toString(arr);
        int d= eat();
        System.out.println(d);
