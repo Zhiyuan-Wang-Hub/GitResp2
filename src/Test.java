@@ -13,7 +13,7 @@ public class Test {
         arr[0]=11;
         arr[1]=81;
         arr[2]=98;
-        arr[3]=66;
+        arr[3]=69;
         Arrays.toString(arr);
        int d= eat();
        System.out.println(d);
