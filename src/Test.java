@@ -9,11 +9,12 @@ public class Test {
         int a=10;
         int b=20;
         int c=30;
-        int [] arr=new int[4];
+        int [] arr=new int[5];
         arr[0]=11;
         arr[1]=81;
         arr[2]=98;
         arr[3]=69;
+        arr[4]=69;
         Arrays.toString(arr);
        int d= eat();
        System.out.println(d);
